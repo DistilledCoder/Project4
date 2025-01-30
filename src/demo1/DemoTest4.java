@@ -10,6 +10,9 @@ public class DemoTest4 {
 		System.out.println("Eric is learning");
 		System.out.println(q);
 
+		int a = 10;
+		int b = 20;
+		
 		if (a > b) {
 			System.out.println("Greater Than");
 		} else {
